@@ -19,7 +19,7 @@ function App() {
 <h2>Deborah RUTAGENGWA</h2>
 <h4>Creative Frontend Developer</h4>
 
-<p>Scroll down</p>
+
 <Experiences/>
 <Contact/>
 
