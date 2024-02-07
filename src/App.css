@@ -1,0 +1,97 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.top{
+  display: flex;
+  gap: 4rem;
+  
+  width: 100%;
+  height: 50px;
+  color: black;
+
+}
+.hm, .exp, .cnt{
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  
+}
+.my{
+  font-size: x-large;
+  text-decoration: none;
+  font-weight: bold;
+  color: rgb(203, 63, 63);
+
+}
+.all{
+  /* background-image:url('./assets/bg.png'); */
+  background-color: rgb(1, 1, 40);
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.me{
+  text-align: center;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+  margin-left: 500px;
+}
+h2{
+  color: rgb(203, 63, 63);
+  margin-left: 500px;
+  font-weight: bold;
+  
+
+}
+h4{
+  color: rgb(203, 63, 63);
+  margin-left: 540px;
+}
+h5{
+  color:rgb(203, 63, 63) ;
+}
+p{
+  color: White;
+  font-weight: 800;
+}
+.wedo{
+  margin-left: 500px;
+  color: white;
+  font-weight: bold;
+  font-size:xx-large;
+}
+
+.allExp{
+  display: flex;
+  /*flex-direction: row;*/
+  margin-left: 150px;
+}
+.experience1{
+  width: 300px;
+  height: 150px;
+  border: 1px solid rgb(203, 63, 63);
+  border-radius: 5px;
+  margin-left: 20px;
+  justify-content: center;
+  align-items: center;
+  
+
+}
+.codeIcon{
+  color: white;
+  align-items: center;
+  justify-content: center;
+}
+.reach{
+  color: white;
+  align-items: center;
+  justify-content: center;
+
+}
